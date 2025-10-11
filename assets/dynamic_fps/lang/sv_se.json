@@ -1,5 +1,5 @@
 {
-    "config.dynamic_fps.title": "Konfigurera Dynamic FPS",
+    "config.dynamic_fps.title": "§n§lKonfigurera Dynamic FPS",
     "config.dynamic_fps.category.general": "Allmänt",
     "config.dynamic_fps.category.hovered": "§l§eHovrande",
     "config.dynamic_fps.category.unfocused": "§l§eOfokuserad",
@@ -10,7 +10,7 @@
     "config.dynamic_fps.idle_time": "Inaktivitetstid",
     "config.dynamic_fps.idle_time_tooltip": "Minuter utan inmatning tills Dynamic FPS aktiverar Inaktivetesläget medans spelet är fokuserat.",
     "config.dynamic_fps.frame_rate_target": "Bildfrekvensmål",
-    "config.dynamic_fps.volume_multiplier": "Volym Multiplikator",
+    "config.dynamic_fps.volume_multiplier": "§e§lVolym Multiplikator",
     "config.dynamic_fps.graphics_state": "Bildskärmsinställningar",
     "config.dynamic_fps.graphics_state_default": "§6Standard",
     "config.dynamic_fps.graphics_state_reduced": "§cReducerad",

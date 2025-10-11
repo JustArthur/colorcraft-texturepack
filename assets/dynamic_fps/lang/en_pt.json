@@ -1,5 +1,5 @@
 {
-    "config.dynamic_fps.title": "Dynamic Anchor Code o' Conduct",
+    "config.dynamic_fps.title": "§n§lDynamic Anchor Code o' Conduct",
     "config.dynamic_fps.category.general": "Main Deck",
     "config.dynamic_fps.category.hovered": "§l§eMakin' Chase",
     "config.dynamic_fps.category.unfocused": "§l§eAbandoned Ship",
@@ -13,7 +13,7 @@
     "config.dynamic_fps.uncap_menu_frame_rate": "Banish th' Menu Speed Limit?",
     "config.dynamic_fps.uncap_menu_frame_rate_tooltip": "Makes th' 60-knots Speed Limit in th' main menu walk th' plank.",
     "config.dynamic_fps.frame_rate_target": "Speed Limit Target",
-    "config.dynamic_fps.volume_multiplier": "Noise Multiplier",
+    "config.dynamic_fps.volume_multiplier": "§e§lNoise Multiplier",
     "config.dynamic_fps.graphics_state": "Spyglass Lens",
     "config.dynamic_fps.graphics_state_default": "§6Fair Condition",
     "config.dynamic_fps.graphics_state_reduced": "§cBudget'd",

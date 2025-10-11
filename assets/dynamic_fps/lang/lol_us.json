@@ -1,5 +1,5 @@
 {
-    "config.dynamic_fps.title": "Configure Dynamik MPS (meows/s)",
+    "config.dynamic_fps.title": "§n§lConfigure Dynamik MPS (meows/s)",
     "config.dynamic_fps.category.general": "Generlol",
     "config.dynamic_fps.category.hovered": "§l§ehoverd",
     "config.dynamic_fps.category.unfocused": "§l§edistractd",
@@ -13,7 +13,7 @@
     "config.dynamic_fps.uncap_menu_frame_rate": "Uncat Menu MPS",
     "config.dynamic_fps.uncap_menu_frame_rate_tooltip": "No moar 60 FPS limit in the main menu!",
     "config.dynamic_fps.frame_rate_target": "Meow Rate Target",
-    "config.dynamic_fps.volume_multiplier": "loudness",
+    "config.dynamic_fps.volume_multiplier": "§e§lloudness",
     "config.dynamic_fps.graphics_state": "Grefix Opshuns",
     "config.dynamic_fps.graphics_state_default": "§6Regulr",
     "config.dynamic_fps.graphics_state_reduced": "§cRedoosed",

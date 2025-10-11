@@ -1,5 +1,5 @@
 {
-    "config.dynamic_fps.title": "Skonfiguruj Dynamic FPS",
+    "config.dynamic_fps.title": "§n§lSkonfiguruj Dynamic FPS",
     "config.dynamic_fps.category.general": "Ogólne",
     "config.dynamic_fps.category.hovered": "§l§eZawieszone",
     "config.dynamic_fps.category.unfocused": "§l§eBez koncentracji",
@@ -12,7 +12,7 @@
     "config.dynamic_fps.uncap_menu_frame_rate": "Odblokuj menu FPS",
     "config.dynamic_fps.uncap_menu_frame_rate_tooltip": "Usuń limit 60 FPS w menu głównym.",
     "config.dynamic_fps.frame_rate_target": "Docelowa liczba klatek na sekundę",
-    "config.dynamic_fps.volume_multiplier": "Mnożnik głośności",
+    "config.dynamic_fps.volume_multiplier": "§e§lMnożnik głośności",
     "config.dynamic_fps.graphics_state": "Opcje graficzne",
     "config.dynamic_fps.graphics_state_default": "§6Domyślna",
     "config.dynamic_fps.graphics_state_reduced": "§cZmniejszona",
