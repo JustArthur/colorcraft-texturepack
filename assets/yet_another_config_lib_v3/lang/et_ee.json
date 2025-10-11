@@ -1,0 +1,16 @@
+{
+    "yacl.control.boolean.true": "§aTõene",
+    "yacl.control.boolean.false": "§cVäär",
+    "yacl.control.action.execute": "§aKÄIVITA",
+    "yacl.gui.save": "§aSalvesta muudatused",
+    "yacl.gui.save.tooltip": "Teeb tehtud muudatused püsivaks.",
+    "yacl.gui.finished.tooltip": "§cSulgeb liidese.",
+    "yacl.gui.cancel.tooltip": "Unustab tehtud muudatused ja sulgeb liidese.",
+    "yacl.gui.reset.tooltip": "§4Lähtestab kõik valikud vaikeväärtustele. (Seda saab tagasi võtta!)",
+    "yacl.gui.undo": "§cVõta tagasi",
+    "yacl.gui.undo.tooltip": "Lähtestab kõik valikud muutmise-eelsetele väärtustele.",
+    "yacl.gui.fail_apply": "§cRakendamine ebaõnnestus",
+    "yacl.gui.fail_apply.tooltip": "Esines viga ja muudatusi ei saadud rakendada.",
+    "yacl.gui.save_before_exit": "§6Salvesta enne väljumist!",
+    "yacl.gui.save_before_exit.tooltip": "§aLiidesest väljumiseks salvesta või loobu."
+}
