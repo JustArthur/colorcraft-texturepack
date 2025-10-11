@@ -54,29 +54,44 @@ ColorCraft supports a wide variety of mods to ensure every text in your world st
 - [Alex's Caves](https://modrinth.com/mod/alexs-caves)
 - [Alex's Mobs](https://modrinth.com/mod/alexs-mobs)
 - [Alexs Caves: Stuff & Torpedoes](https://modrinth.com/mod/alexscaves-torpedoes)
+- [Better Statistics Screen](https://www.curseforge.com/minecraft/mc-mods/betterstats)
+- [Bobby](https://modrinth.com/mod/bobby)
+- [Cave Dust](https://modrinth.com/mod/cave-dust)
 - [Create](https://modrinth.com/mod/create)
+- [Detail Armor Bar Reconstructed](https://modrinth.com/mod/detail-armor-bar-reconstructed)
 - [Durability Tooltip](https://modrinth.com/mod/durability-tooltip)
+- [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
+- [Dynamic Crosshair](https://modrinth.com/mod/dynamiccrosshair)
 - [Embeddium](https://modrinth.com/mod/embeddium)
 - [Enderite Mod](https://modrinth.com/mod/enderite-mod)
 - [Enhanced Block Entities](https://modrinth.com/mod/ebe)
 - [Fancy Block Particles - Renewed](https://modrinth.com/mod/fbp-renewed)
 - [Farmer's Delight](https://modrinth.com/mod/farmers-delight)
+- [Immersive Hotbar](https://modrinth.com/mod/immersive-hotbar)
 - [Inventory Particles](https://modrinth.com/mod/inventory-particles)
-- [Iris Shaders](https://modrinth.com/mod/iris)
+- [Inventory Management](https://modrinth.com/mod/inventory-management)
+- [InvMove](https://modrinth.com/mod/invmove)
+- [Malilib](https://modrinth.com/mod/malilib)
+- [Mod Menu](https://modrinth.com/mod/modmenu)
+- [Naturally Trimmed](https://modrinth.com/mod/naturally-trimmed)
 - [Nvidium](https://modrinth.com/mod/nvidium)
 - [oωo](https://modrinth.com/mod/owo-lib)
 - [Physics Mod](https://modrinth.com/mod/physicsmod)
+- [Presence Footsteps](https://modrinth.com/mod/presence-footsteps)
 - [Shulker Box Tooltip](https://modrinth.com/mod/shulkerboxtooltip)
 - [Sodium](https://modrinth.com/mod/sodium)
 - [Sodium Extra](https://modrinth.com/mod/sodium-extra)
+- [Sounds](https://modrinth.com/mod/sound)
 - [Stellar View](https://modrinth.com/mod/stellarview)
 - [Supplementaries](https://modrinth.com/mod/supplementaries)
 - [Terralith](https://modrinth.com/datapack/terralith)
 - [VanillaTweaks](https://modrinth.com/mod/vanillatweaks)
 - [Vein Mining](https://modrinth.com/mod/vein-mining)
 - [Wakes](https://modrinth.com/mod/wakes)
+- [Waystones](https://modrinth.com/mod/waystones)
 - [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
 - [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)
+- [Yet Another Config Lib (YACL)](https://modrinth.com/mod/yacl)
 
 > 🧱 *Want your mod supported?*  
 Drop your mod link in the issues tab — compatibility updates are frequent.
@@ -111,4 +126,4 @@ Open a [Pull Request](https://github.com/JustArthur/ColorCraft/pulls) or start a
 
 ---
 
-**🧡 Stay colorful. Stay creative. — ColorCraft Team**
+**🧡 Stay colorful. Stay creative.**
