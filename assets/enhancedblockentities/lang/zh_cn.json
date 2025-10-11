@@ -1,15 +1,17 @@
 {
     "option.ebe.config": "方块实体...",
-    "value.ebe.true": "§a开",
-    "value.ebe.false": "§c关",
-    "value.ebe.allowed": "§9允许",
-    "value.ebe.forced": "§4一直",
-    "value.ebe.disabled": "§c禁用",
-    "value.ebe.smart": "§3智能",
-    "value.ebe.all": "§2全部",
-    "value.ebe.most": "§a多数",
-    "value.ebe.some": "§c部分",
-    "value.ebe.few": "§4少量",
+
+    "value.ebe.true": "开",
+    "value.ebe.false": "关",
+    "value.ebe.allowed": "允许",
+    "value.ebe.forced": "一直",
+    "value.ebe.disabled": "禁用",
+    "value.ebe.smart": "智能",
+    "value.ebe.all": "全部",
+    "value.ebe.most": "多数",
+    "value.ebe.some": "部分",
+    "value.ebe.few": "少量",
+
     "option.ebe.render_enhanced_chests": "优化箱子",
     "option.ebe.render_enhanced_chests.comment": "启用烘焙箱子模型，极大地提高了多箱子区域的性能。还能在远处看见箱子。如果箱子不可见，可能是由其他mod引起的，尝试禁用解决。",
     "option.ebe.render_enhanced_signs": "优化告示牌",
@@ -50,7 +52,9 @@
     "option.ebe.experimental_signs.comment": "为告示牌启用非常实验性的渲染功能，例如与资源包一起使用时特殊生成的粒子纹理。",
     "option.ebe.dump": "导出示例资源",
     "option.ebe.dump.comment": "导出本模组的默认资源到.minecraft/enhanced_bes_dump/用于资源包制作者当做一个示例。",
+
     "screen.ebe.config": "方块实体设置",
+
     "text.ebe.apply": "应用",
     "text.ebe.descriptions": "将鼠标悬停在选项上查看描述",
     "text.ebe.chest_options": "箱子",

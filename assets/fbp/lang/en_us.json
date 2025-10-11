@@ -4,7 +4,5 @@
   "button.fbp.common.done": "§aDone",
 
   "button.fbp.common.true": "§aON",
-  "button.fbp.common.false": "§cOFF",
-
-  "button.fbp.global.enabled": "§aEnabled"
+  "button.fbp.common.false": "§cOFF"
 }

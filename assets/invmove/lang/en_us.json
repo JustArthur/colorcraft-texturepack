@@ -1,8 +1,8 @@
 {
   "config.invmove.title": "InvMove Config",
-  "key.invmove.category.general": "§l§eGeneral",
-  "key.invmove.category.movement": "§l§eUI Movement",
-  "key.invmove.category.background": "§l§eUI Background",
+  "key.invmove.category.general": "General",
+  "key.invmove.category.movement": "UI Movement",
+  "key.invmove.category.background": "UI Background",
 
   "config.invmove.general.enable": "Enable Mod",
   "tooltip.config.invmove.general.enable": "Enable the entire mod",
@@ -29,7 +29,7 @@
   "config.invmove.background.unrecognizedScreenDefault": "Unrecognized Screens Default",
   "tooltip.config.invmove.background.unrecognizedScreenDefault": "Default state for new unrecognized UIs.",
 
-  "key.invmove.category.movement.keys": "Allowed Keys",
+  "key.invmove.category.movement.keys": "§e§lAllowed Keys",
   "key.invmove.category.movement.keys.desc": "Only keys marked \"Allow\" will be handled by the mod.",
 
   "key.invmove.module.nooptions": "This module doesn't have any options.",
@@ -41,7 +41,7 @@
   "keybind.invmove.toggleMove": "Toggle UI Movement",
 
   "key.invmove.modules": "Modules",
-  "key.invmove.module.vanilla": "Vanilla",
+  "key.invmove.module.vanilla": "§e§lVanilla",
 
   "config.invmove.vanilla.movement.horseInventory": "Horse Inventory",
   "config.invmove.vanilla.backgroundHide.horseInventory": "Horse Inventory",
