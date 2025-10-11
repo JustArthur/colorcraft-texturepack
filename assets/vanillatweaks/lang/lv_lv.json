@@ -1,0 +1,20 @@
+{
+    "_comment": "misc",
+    "block.vanillatweaks.flint_block": "Krama Bloks",
+    "block.vanillatweaks.sugar_block": "Cukura Bloks",
+    "block.vanillatweaks.charcoal_block": "Kokogles Bloks",
+    "block.vanillatweaks.pedestal": "Pedestālis",
+    "item.vanillatweaks.dynamite": "Dinamīts",
+    "item.vanillatweaks.fried_egg": "Cepta Ola",
+    "item.vanillatweaks.crafting_pad": "Darba Paliknis",
+    "item.vanillatweaks.slime_bucket": "Gļotu Meklētājs",
+    "enchantment.vanillatweaks.nimble": "§eVeikls",
+    "enchantment.vanillatweaks.hops": "§eLecošs",
+    "enchantment.vanillatweaks.vigor": "§eSparīgs",
+    "enchantment.vanillatweaks.veteran": "§aVeterāns",
+    "enchantment.vanillatweaks.blazing": "§cLiesmojošs",
+    "enchantment.vanillatweaks.siphon": "§aSifons",
+    "enchantment.vanillatweaks.homing": "§eSekojošs",
+    "entity.dynamite": "Dinamīts",
+    "tooltip.entity": "Rodas: %s"
+}

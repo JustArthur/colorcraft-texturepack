@@ -1,0 +1,20 @@
+{
+    "yacl.control.boolean.true": "§aVklopljeno",
+    "yacl.control.boolean.false": "§cIzklopljeno",
+    "yacl.control.action.execute": "§aPOŽENI",
+    "yacl.gui.save": "§aShrani spremembe",
+    "yacl.gui.save.tooltip": "Uvede trajne spremembe.",
+    "yacl.gui.finished.tooltip": "§cZapre meni.",
+    "yacl.gui.cancel.tooltip": "Zavrže neshranjene spremembe in zapre meni.",
+    "yacl.gui.reset.tooltip": "§4Ponastavi vse možnosti na privzete. (To se da razveljaviti!)",
+    "yacl.gui.undo": "§cRazveljavi",
+    "yacl.gui.undo.tooltip": "Ponastavi vse možnosti na take kot pred spreminjanjem.",
+    "yacl.gui.fail_apply": "§cNapaka pri uveljavljanju",
+    "yacl.gui.fail_apply.tooltip": "Prišlo je do napake pri uveljavljanju sprememb.",
+    "yacl.gui.save_before_exit": "§6Shrani pred izhodom!",
+    "yacl.gui.save_before_exit.tooltip": "§aShrani ali prekliči za izhod iz menija.",
+    "yacl.restart.title": "§4Nastavitve potrebujejo ponovni zagon!",
+    "yacl.restart.message": "Vsaj ena izmed nastavitev potrebuje ponovni zagon igre za uveljavitev.",
+    "yacl.restart.yes": "§4Zapri Minecraft",
+    "yacl.restart.no": "§6Prezri"
+}
