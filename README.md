@@ -126,4 +126,4 @@ Open a [Pull Request](https://github.com/JustArthur/ColorCraft/pulls) or start a
 
 ---
 
-**🧡 Stay colorful. Stay creative. — ColorCraft Team**
+**🧡 Stay colorful. Stay creative.**
