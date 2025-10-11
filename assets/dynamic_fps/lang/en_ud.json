@@ -1,5 +1,5 @@
 {
-    "config.dynamic_fps.title": "SԀℲ ɔᴉɯɐuʎᗡ ǝɹnɓᴉɟuoƆ",
+    "config.dynamic_fps.title": "§n§lSԀℲ ɔᴉɯɐuʎᗡ ǝɹnɓᴉɟuoƆ",
     "config.dynamic_fps.category.general": "ʅɐɹǝuǝ⅁",
     "config.dynamic_fps.category.hovered": "§l§epǝɹǝʌoH",
     "config.dynamic_fps.category.unfocused": "§l§epǝsnɔoɟu∩",
@@ -13,7 +13,7 @@
     "config.dynamic_fps.uncap_menu_frame_rate": "SԀℲ nuǝW dɐɔu∩",
     "config.dynamic_fps.uncap_menu_frame_rate_tooltip": "·nuǝɯ uᴉɐɯ ǝɥʇ uᴉ ʇᴉɯᴉʅ SԀℲ 09 ǝɥʇ ǝʌoɯǝꓤ",
     "config.dynamic_fps.frame_rate_target": "ʇǝɓɹɐ⟘ ǝʇɐᴚ ǝɯɐɹℲ",
-    "config.dynamic_fps.volume_multiplier": "ɹǝᴉʅdᴉʇʅnW ǝɯnʅoɅ",
+    "config.dynamic_fps.volume_multiplier": "§e§lɹǝᴉʅdᴉʇʅnW ǝɯnʅoɅ",
     "config.dynamic_fps.graphics_state": "suoᴉʇdO sɔᴉɥdɐɹ⅁",
     "config.dynamic_fps.graphics_state_default": "§6ʇʅnɐɟǝᗡ",
     "config.dynamic_fps.graphics_state_reduced": "§cpǝɔnpǝᴚ",

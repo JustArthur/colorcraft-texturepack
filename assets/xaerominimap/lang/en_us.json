@@ -18,9 +18,18 @@
 	"gui.xaero_purple" : "§dLight Purple",
 	"gui.xaero_yellow" : "§eYellow",
 	"gui.xaero_white" : "§fWhite",
-	"gui.xaero_next" : "§aNext§r >>",
-	"gui.xaero_previous" : "<< §cPrev§r",
+	"gui.xaero_next" : "§aNext >>",
+	"gui.xaero_previous" : "§c<< Prev",
 	"gui.xaero_delete_set" : "§cDelete Set",
 	"gui.xaero_true" : "§aTrue",
-	"gui.xaero_false" : "§cFalse"
+	"gui.xaero_false" : "§cFalse",
+    "gui.xaero_confirm": "§aConfirm",
+    "gui.xaero_cancel": "§cCancel",
+    "gui.xaero_back": "§cBack",
+    "gui.xaero_delete": "§cDelete",
+    "gui.xaero_on": "§aON",
+    "gui.xaero_off": "§cOFF",
+    "gui.xaero_disabled": "§cDisabled",
+    "gui.xaero_default": "§6Default",
+    "gui.xaero_all": "§dAll"
 }

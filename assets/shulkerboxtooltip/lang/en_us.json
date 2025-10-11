@@ -11,6 +11,8 @@
   "shulkerboxtooltip.config.reset_to_default.full": "§eReset to default",
   "shulkerboxtooltip.config.restart_required.title": "§cRestart Required",
   "shulkerboxtooltip.config.save": "§eSave & Quit",
+  "shulkerboxtooltip.config.item_stack_merging_strategy.first_item": "§bFirst Item",
+  "shulkerboxtooltip.config.item_stack_merging_strategy.separate": "§bSeparate Items",
   "shulkerboxtooltip.config.tooltip_type.none": "§cNone",
   "shulkerboxtooltip.config.tooltip_type.vanilla": "§9Vanilla",
   "shulkerboxtooltip.config.undo.full": "§cUndo change",

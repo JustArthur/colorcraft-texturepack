@@ -1,11 +1,11 @@
 {
-    "config.dynamic_fps.title": "Configurar Dynamic FPS",
+    "config.dynamic_fps.title": "§n§lConfigurar Dynamic FPS",
     "config.dynamic_fps.category.hovered": "§l§eSobre",
     "config.dynamic_fps.category.unfocused": "§l§eDesenfocado",
     "config.dynamic_fps.category.invisible": "§l§eInvisible",
     "config.dynamic_fps.frame_rate_target": "Objetivo de Velocidad de Fotogramas",
     "config.dynamic_fps.frame_rate_target_description": "Establecer el objetivo de FPS en -1 para desactivar la reducción de FPS.",
-    "config.dynamic_fps.volume_multiplier": "Multiplicador de Volumen",
+    "config.dynamic_fps.volume_multiplier": "§e§lMultiplicador de Volumen",
     "config.dynamic_fps.graphics_state": "Opciones Gráficas",
     "config.dynamic_fps.show_toasts": "Mostrar Notificaciones",
     "config.dynamic_fps.run_garbage_collector": "Ejecutar el Garbage Collector",

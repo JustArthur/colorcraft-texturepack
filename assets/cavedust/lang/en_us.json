@@ -20,11 +20,11 @@
   "menu.cavedust.particlemultipliermultiplier.tooltip": "Multiplies particle amount.",
   "menu.cavedust.velocityrandomness": "Velocity randomness: %s",
   "menu.cavedust.velocityrandomness.tooltip": "The randomness of the velocity of the particles.",
-  "menu.cavedust.enhanceddetection.true": "Enhanced detection: Enabled",
-  "menu.cavedust.enhanceddetection.false": "Enhanced detection: Disabled",
+  "menu.cavedust.enhanceddetection.true": "Enhanced detection: §aEnabled",
+  "menu.cavedust.enhanceddetection.false": "Enhanced detection: §cDisabled",
   "menu.cavedust.enhanceddetection.tooltip": "Enhanced detection enables more accurate checks, using the particles position\n               instead of the player, has some performance impact.",
-  "menu.cavedust.superflatstatus.true": "Superflat particles: Enabled",
-  "menu.cavedust.superflatstatus.false": "Superflat particles: Disabled",
+  "menu.cavedust.superflatstatus.true": "Superflat particles: §aEnabled",
+  "menu.cavedust.superflatstatus.false": "Superflat particles: §cDisabled",
   "menu.cavedust.superflatstatus.tooltip": "Should particles spawn on superflat worlds?",
   "menu.cavedust.particle": "Particle: ",
   "menu.cavedust.particle.tooltip": "Particle to spawn. Click to cycle.",
@@ -33,8 +33,8 @@
   "key.cavedust.toggle": "Toggle Particles",
   "category.cavedust.spook": "Cave Dust",
 
-  "debug.cavedust.toggle.true": "(Cave Dust) Enabled particles",
-  "debug.cavedust.toggle.false": "(Cave Dust) Disabled particles",
+  "debug.cavedust.toggle.true": "(Cave Dust) §aEnabled particles",
+  "debug.cavedust.toggle.false": "(Cave Dust) §cDisabled particles",
   "debug.cavedust.reload": "(Cave Dust) Reloaded config",
   "debug.cavedust.particleerror": "(Cave Dust) Error setting particle, skipping to next particle!"
 

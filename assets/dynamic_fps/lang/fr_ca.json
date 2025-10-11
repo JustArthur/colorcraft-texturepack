@@ -1,5 +1,5 @@
 {
-    "config.dynamic_fps.title": "Configuration de Dynamic FPS",
+    "config.dynamic_fps.title": "§n§lConfiguration de Dynamic FPS",
     "config.dynamic_fps.category.general": "Général",
     "config.dynamic_fps.category.hovered": "§l§eSurvolé",
     "config.dynamic_fps.category.unfocused": "§l§eArrière-plan",
@@ -17,7 +17,7 @@
     "config.dynamic_fps.volume_transition_speed_instant": "Instantané",
     "config.dynamic_fps.volume_transition_speed_tooltip": "Définir la vitesse à laquelle le jeu va ajuster son volume par secondes.",
     "config.dynamic_fps.frame_rate_target": "Fréquence d'images ciblée",
-    "config.dynamic_fps.volume_multiplier": "Multiplicateur de volume",
+    "config.dynamic_fps.volume_multiplier": "§e§lMultiplicateur de volume",
     "config.dynamic_fps.graphics_state": "Options graphiques",
     "config.dynamic_fps.graphics_state_default": "§6Par défaut",
     "config.dynamic_fps.graphics_state_reduced": "§cRéduit",

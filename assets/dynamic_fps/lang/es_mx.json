@@ -1,5 +1,5 @@
 {
-    "config.dynamic_fps.title": "Configurar Dynamic FPS",
+    "config.dynamic_fps.title": "§n§lConfigurar Dynamic FPS",
     "config.dynamic_fps.category.general": "General",
     "config.dynamic_fps.category.hovered": "§l§eSobre",
     "config.dynamic_fps.category.unfocused": "§l§eDesenfocado",
@@ -13,7 +13,7 @@
     "config.dynamic_fps.uncap_menu_frame_rate": "Liberar los FPS en Menu",
     "config.dynamic_fps.uncap_menu_frame_rate_tooltip": "Remueve el limite de 60 FPS en el menú principal",
     "config.dynamic_fps.frame_rate_target": "Objetivo de Velocidad de Fotogramas",
-    "config.dynamic_fps.volume_multiplier": "Multiplicador de Volumen",
+    "config.dynamic_fps.volume_multiplier": "§e§lMultiplicador de Volumen",
     "config.dynamic_fps.graphics_state": "Opciones Gráficas",
     "config.dynamic_fps.graphics_state_default": "§6Por defecto",
     "config.dynamic_fps.graphics_state_reduced": "§cReducidos",
