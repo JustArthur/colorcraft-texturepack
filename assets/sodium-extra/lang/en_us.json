@@ -1,5 +1,0 @@
-{
-    "sodium-extra.overlay.coordinates": "§cX : %s§r, §cY : %s§r, §9Z : %s§r",
-    "sodium-extra.overlay.fps": "§e%s FPS§r",
-    "sodium-extra.units.ticks": "§e%s tick(s)§r"
-}
