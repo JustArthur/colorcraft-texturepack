@@ -1,4 +1,4 @@
-![ColorCraft](./images/banner.webp)
+![ColorCraft](https://github.com/JustArthur/colorcraft-texturepack/blob/main/images/banner.webp?raw=true)
 
 # 🎨 ColorCraft — Bring Color to Your Interface
 
@@ -24,17 +24,17 @@ ColorCraft injects vibrant colors and styles into Minecraft’s interface — ma
 
 | Feature | Preview |
 |----------|----------|
-| Main Menu | ![Quit Game is now red](./images/main_menu.png) |
-| Create World Menu | ![Create world screen](./images/new_world.png) |
-| Settings & UI | ![Settings screen](./images/options.png) |
-| Sodium Compatibility | ![Sodium settings](./images/sodium.png) |
-| Keybinds | ![Keybinds screen](./images/keybinds.png) |
-| Enchantments | ![Enchantments](./images/enchanted_book.png) |
-| Dye Colors | ![Dye colors](./images/dye.png) |
-| Effects | ![Effects](./images/potion_effect.png) |
-| Pause Menu | ![Pause menu](./images/pause_menu.png) |
-| Death Screen | ![Death screen](./images/dead_screen.png) |
-| Chat Messages | ![Chat messages](./images/gamemode_chat.png) |
+| Main Menu | ![Quit Game is now red](https://github.com/JustArthur/colorcraft-texturepack/blob/main/images/main_menu.png) ?raw=true|
+| Create World Menu | ![Create world screen](https://github.com/JustArthur/colorcraft-texturepack/blob/main/images/new_world?raw=true.png) |
+| Settings & UI | ![Settings screen](https://github.com/JustArthur/colorcraft-texturepack/blob/main/images/options.png) ?raw=true|
+| Sodium Compatibility | ![Sodium settings](https://github.com/JustArthur/colorcraft-texturepack/blob/main/images/sodium.png) ?raw=true|
+| Keybinds | ![Keybinds screen](https://github.com/JustArthur/colorcraft-texturepack/blob/main/images/keybinds.png) ?raw=true|
+| Enchantments | ![Enchantments](https://github.com/JustArthur/colorcraft-texturepack/blob/main/images/enchanted_book.png) ?raw=true|
+| Dye Colors | ![Dye colors](https://github.com/JustArthur/colorcraft-texturepack/blob/main/images/dye.png) ?raw=true|
+| Effects | ![Effects](https://github.com/JustArthur/colorcraft-texturepack/blob/main/images/potion_effect.png) ?raw=true|
+| Pause Menu | ![Pause menu](https://github.com/JustArthur/colorcraft-texturepack/blob/main/images/pause_menu.png) ?raw=true|
+| Death Screen | ![Death screen](https://github.com/JustArthur/colorcraft-texturepack/blob/main/images/dead_screen.png) ?raw=true|
+| Chat Messages | ![Chat messages](https://github.com/JustArthur/colorcraft-texturepack/blob/main/images/gamemode_chat.png) ?raw=true|
 
 ---
 
